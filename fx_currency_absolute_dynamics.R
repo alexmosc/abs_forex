@@ -13,11 +13,6 @@ library(quantmod)
 library(scales)
 
 
-## set WD --------------------------------
-
-setwd('C:/Users/burnakov_a/working_codes/auto_reports')
-
-
 ## set vars -------------
 
 currs <- c(
